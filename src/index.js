@@ -48,7 +48,7 @@ const data = {
     links: 
     [
       {
-        name: "nasa",
+        name: "Nasa-APOD",
         url: "https://leonelgancedo.github.io/nasa-apod/",
         color: "green",
         emoji: "🚀",
